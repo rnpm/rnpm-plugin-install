@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rnpm/rnpm-plugin-install/issues"
   },
-  "homepage": "https://github.com/rnpm/rnpm-plugin-install#readme"
+  "homepage": "https://github.com/rnpm/rnpm-plugin-install#readme",
+  "dependencies": {
+    "npmlog": "^2.0.2"
+  }
 }
