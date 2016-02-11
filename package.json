@@ -11,6 +11,10 @@
     "url": "git+https://github.com/rnpm/rnpm-plugin-install.git"
   },
   "author": "Alexey Kureev <kureev-mail@ya.ru> (https://github.com/Kureev)",
+  "contributors": [
+    "Alexey Kureev <kureev-mail@ya.ru> (https://github.com/Kureev)",
+    "Mike Grabowski <grabbou@gmail.com> (https://github.com/grabbou)"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rnpm/rnpm-plugin-install/issues"
